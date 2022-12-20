@@ -11,25 +11,6 @@ Training example:
 </p>
 
 
-
-**The implementation of this method has been accepted for ICRA 2022 and published in IEEE RA-L:**
-
-
-Some more information about the implementation is available [here](https://ieeexplore.ieee.org/document/9645287?source=authoralert)
-
-Please cite as:<br/>
-```
-@ARTICLE{9645287,
-  author={Cimurs, Reinis and Suh, Il Hong and Lee, Jin Han},
-  journal={IEEE Robotics and Automation Letters}, 
-  title={Goal-Driven Autonomous Exploration Through Deep Reinforcement Learning}, 
-  year={2022},
-  volume={7},
-  number={2},
-  pages={730-737},
-  doi={10.1109/LRA.2021.3133591}}
-```
-
 ## Installation
 Main dependencies: 
 
